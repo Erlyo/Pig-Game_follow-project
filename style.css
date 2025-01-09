@@ -46,6 +46,18 @@ main {
 }
 
 /* ELEMENTS */
+.game-name {
+  position: absolute;
+  top: 100px;
+  z-index: 10;
+  color: #470654;
+  font-size: 12rem;
+  font-weight: 700;
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
 .name {
   position: relative;
   font-size: 4rem;
